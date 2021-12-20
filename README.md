@@ -67,5 +67,5 @@ Create a script (or a Hardhat task) to query the total amount of ETH held in the
 
 _You can use any library you prefer: Ethers.js, Web3.js, Web3.py, eth-brownie_
 
-***I've made a simple react front end to interact with the contract and uploaded it into Github Pages. You can access it by clicking in [here](). Feel free to ask me to whitelist and address as a team member to gain access for making reward deposits ;)***
+***I've made a simple react front end to interact with the contract and uploaded it into Github Pages. You can access it by clicking in [here](https://andresnaza.github.io/challenge/). Feel free to ask me to whitelist and address as a team member to gain access for making reward deposits ;)***
 
